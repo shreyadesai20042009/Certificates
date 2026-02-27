@@ -69,3 +69,18 @@ Completed an intensive Python for Data Science program focusing on data analysis
 
 **Skills Gained:**  
 `Python` `NumPy` `Pandas` `Matplotlib` `EDA`
+
+---
+
+## 🤖 AI Tools & ChatGPT Workshop  
+**be10x | AI Productivity & Automation Program**
+
+🔗 **Certificate Link:**  
+[View Certificate](https://drive.google.com/file/d/1WPjnh1CSaE9YnN8u7JZC13Jc3V1KwEh0/view)
+
+**Description:**  
+Successfully completed the AI Tools & ChatGPT Workshop by be10x (Issued July 13, 2025), gaining hands-on experience in leveraging AI tools for productivity, automation, intelligent data analysis, and code optimization. The workshop focused on real-world AI implementation including prompt engineering, faster presentation creation, AI-assisted coding, debugging workflows, and workflow automation.
+
+**Skills Gained:**  
+`ChatGPT` `AI Tools` `Prompt Engineering` `AI for Coding` `Automation` `AI Productivity` `Data Analysis`
+
