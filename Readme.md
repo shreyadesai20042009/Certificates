@@ -84,3 +84,32 @@ Successfully completed the AI Tools & ChatGPT Workshop by be10x (Issued July 13,
 **Skills Gained:**  
 `ChatGPT` `AI Tools` `Prompt Engineering` `AI for Coding` `Automation` `AI Productivity` `Data Analysis`
 
+---
+
+### 📊 Data Science
+**Infosys | Springboard Program**
+
+🔗**Certificate Link:**
+[View Certificate](https://drive.google.com/file/d/1g-VwRx7xyd7rCq-5cVXFIl5GAFdYqnwJ/view?usp=drivesdk) 
+
+**Description:**
+Successfully completed the Data Science course by Infosys Springboard on December 22, 2025. Gained practical understanding of data analysis, data preprocessing, statistical concepts, and foundational machine learning techniques. This certification enhanced my ability to extract insights from data and apply analytical thinking to real-world problems.
+
+**Skills Gained:**
+Data Science Data Analysis Statistics Machine Learning Basics Data Preprocessing
+
+---
+
+### 💻 JavaScript Essential Training
+**LinkedIn Learning**
+
+🔗**Certificate Link:**
+[View Certificate](https://drive.google.com/file/d/1n5ReU9KJDGxk1_HeBH9-CF11wUS_wNLH/view?usp=drivesdk) 
+
+**Description**
+Successfully completed JavaScript Essential Training on September 17, 2024 (6 hours 14 minutes), gaining strong foundational knowledge of JavaScript including variables, functions, DOM manipulation, objects, arrays, events, and modern ES6 concepts. This course strengthened my ability to build interactive and dynamic web applications.
+
+**Skills Gained:**
+JavaScript DOM Manipulation ES6 Web Development Problem Solving
+
+
