@@ -1,64 +1,71 @@
-☁ Microsoft Azure Fundamentals – Cloud Skill Challenge
+# 📜 Certificates – Shreya Desai
 
-Microsoft Learn | Student Ambassador Program
+---
 
-🔗 Certificate Link:
-View Certificate
+## ☁ Microsoft Azure Fundamentals – Cloud Skill Challenge  
+**Microsoft Learn | Student Ambassador Program**
 
-Description:
-Successfully completed the Microsoft Azure Fundamentals Cloud Skill Challenge, gaining practical exposure to core cloud computing concepts including IaaS, PaaS, SaaS, Virtual Machines, Azure Storage, Networking, Identity Management, and Cloud Security. Developed foundational knowledge of cloud architecture and deployment models, enabling understanding of scalable and secure enterprise cloud solutions.
+🔗 **Certificate Link:**  
+[View Certificate](https://drive.google.com/file/d/1nQ9IVvziDyZJEcP4EqfJ8ZrW2hSmkEMQ/view?usp=drivesdk)
 
-Skills Gained:
-Azure Cloud Computing Virtual Machines Networking Cloud Security IAM
+**Description:**  
+Successfully completed the Microsoft Azure Fundamentals Cloud Skill Challenge, gaining practical exposure to core cloud computing concepts including IaaS, PaaS, SaaS, Virtual Machines, Azure Storage, Networking, Identity Management, and Cloud Security.
 
-🧠 Introduction to Artificial Intelligence
+**Skills Gained:**  
+`Azure` `Cloud Computing` `Virtual Machines` `Networking` `Cloud Security` `IAM`
 
-Great Learning Academy
+---
 
-🔗 Certificate Link:
-View Certificate
+## 🧠 Introduction to Artificial Intelligence  
+**Great Learning Academy**
 
-Description:
-Built a strong foundation in Artificial Intelligence, understanding machine learning basics, AI lifecycle, supervised vs unsupervised learning, and real-world AI applications. Explored how AI models are trained, evaluated, and deployed to solve real-world business problems.
+🔗 **Certificate Link:**  
+[View Certificate](https://drive.google.com/file/d/1AhcXOBFyXW7Y-TWqW0HRxhqz9VX4CXjK/view)
 
-Skills Gained:
-Artificial Intelligence Machine Learning Basics AI Applications Data-driven Decision Making
+**Description:**  
+Built a strong foundation in Artificial Intelligence covering machine learning basics, AI lifecycle, and real-world AI applications.
 
-🌐 HTML, CSS & Bootstrap – Certification Course
+**Skills Gained:**  
+`Artificial Intelligence` `Machine Learning Basics` `AI Applications`
 
-Udemy | YouAccel Training
+---
 
-🔗 Certificate Link:
-View Certificate
+## 🌐 HTML, CSS & Bootstrap – Certification Course  
+**Udemy | YouAccel Training**
 
-Description:
-Completed a hands-on web development certification focused on building responsive and user-friendly web interfaces. Learned modern HTML5 semantics, CSS3 styling techniques, Flexbox, Grid, and Bootstrap framework for mobile-first design. Developed practical skills in creating clean, responsive, and production-ready front-end layouts.
+🔗 **Certificate Link:**  
+[View Certificate](https://drive.google.com/file/d/1QbkaJTrTaEyLajEXIaRRSkjo-IzC7HJq/view?usp=drivesdk)
 
-Skills Gained:
-HTML5 CSS3 Bootstrap Responsive Design UI Development
+**Description:**  
+Completed a hands-on web development certification focused on responsive and user-friendly web design using HTML5, CSS3, and Bootstrap.
 
-🤖 Machine Learning – Fundamentals of Python Machine Learning
+**Skills Gained:**  
+`HTML5` `CSS3` `Bootstrap` `Responsive Design`
 
-Udemy | Sara Academy
+---
 
-🔗 Certificate Link:
-View Certificate
+## 🤖 Machine Learning – Fundamentals of Python Machine Learning  
+**Udemy | Sara Academy**
 
-Description:
-Gained hands-on experience with core machine learning algorithms using Python. Covered supervised and unsupervised learning techniques, model training, evaluation metrics, and performance optimization. Strengthened understanding of predictive modeling and data preprocessing techniques used in real-world ML systems.
+🔗 **Certificate Link:**  
+[View Certificate](https://drive.google.com/file/d/1isxTLRtTpi_0h2b2KiAeJMox8m7H3MmJ/view?usp=drivesdk)
 
-Skills Gained:
-Machine Learning Model Training Scikit-learn Data Preprocessing Model Evaluation
+**Description:**  
+Gained hands-on experience with machine learning algorithms, supervised & unsupervised learning, and model evaluation techniques.
 
-🐍 Python for Data Science Pro – Complete Mastery Course
+**Skills Gained:**  
+`Machine Learning` `Scikit-learn` `Model Training` `Data Preprocessing`
 
-Udemy | Sara Academy
+---
 
-🔗 Certificate Link:
-View Certificate
+## 🐍 Python for Data Science Pro – Complete Mastery Course  
+**Udemy | Sara Academy**
 
-Description:
-Completed an intensive Python for Data Science program focused on data analysis, manipulation, and visualization. Worked with NumPy, Pandas, and Matplotlib to clean, transform, and analyze datasets. Strengthened ability to extract actionable insights from structured data and implement analytical workflows efficiently.
+🔗 **Certificate Link:**  
+[View Certificate](https://drive.google.com/file/d/15E99vLtZAzfrAL44u2OHNdeQ7GKXPXN5/view)
 
-Skills Gained:
-Python NumPy Pandas Matplotlib Data Analysis EDA
+**Description:**  
+Completed an intensive Python for Data Science program focusing on data analysis and visualization using NumPy, Pandas, and Matplotlib.
+
+**Skills Gained:**  
+`Python` `NumPy` `Pandas` `Matplotlib` `EDA`
