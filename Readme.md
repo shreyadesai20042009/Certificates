@@ -112,4 +112,74 @@ Successfully completed JavaScript Essential Training on September 17, 2024 (6 ho
 **Skills Gained:**
 JavaScript DOM Manipulation ES6 Web Development Problem Solving
 
+---
+
+### 🏫 Full Stack Development Workshop
+***Annasaheb Dange College of Engineering & Technology, Ashta***
+
+🔗 **Certificate Link:**
+[View Certificate](https://drive.google.com/file/d/1YfCpjzmGkOpTGBds7oGZXEmW8xJWtptZ/view?usp=drivesdk)
+
+**Description**
+Successfully participated in a one-day workshop on Full Stack Development organized by the Computer Science & Engineering Department under the CSI Student Chapter. Gained foundational knowledge of full stack technologies and understanding of web development concepts including frontend and backend development.
+
+**Skills Gained:**
+Full Stack Development Web Development Frontend Basics Backend Basics Technical Workshop Participation
+
+---
+
+### 🤖 Green Skills & Artificial Intelligence – Foundation Course
+**Edunet Foundation | AICTE | Shell | Skills4Future Program**
+
+🔗 **Certificate Link:**
+[View Certificate](https://drive.google.com/file/d/1PsFT5Vl6_sOfHdBYfWhnMqtMKskStopF/view?usp=drivesdk)
+
+**Description:**
+Completed the Foundation Course on Green Skills and Artificial Intelligence under the Skills4Future Program. Gained knowledge about sustainable technologies, AI fundamentals, environmental awareness, and the role of artificial intelligence in modern industries.
+
+**Skills Gained:**
+Artificial Intelligence Green Skills Sustainability AI Fundamentals Industry Awareness
+
+---
+
+### 🏆 Codathon 2K25 – National Level Event
+**Annasaheb Dange College of Engineering & Technology, Ashta**
+
+🔗 **Certificate Link:**
+[View Certificate](https://drive.google.com/file/d/1_IrPkRPfz5B9FRpz0tmVm2OxXjp4muaY/view?usp=drivesdk)
+
+**Description:**
+Participated in the National Level Codathon 2025 event organized by the Training and Placement Cell. Demonstrated problem-solving abilities, coding skills, and teamwork in a competitive environment.
+
+**Skills Gained:**
+Problem Solving Competitive Programming Teamwork Logical Thinking Coding Skills
+
+---
+
+## 💼 Bizquest #18 – Corporate Governance and Ethics
+**Naukri Campus**
+
+🔗 **Certificate Link**:
+[View Certificate](https://drive.google.com/file/d/1hzGSzIArOJmRnsCi5WOfc2mQ04aUxB6b/view?usp=drivesdk)
+
+**Description:**
+Participated in the Bizquest competition focused on Corporate Governance and Ethics. Enhanced understanding of business ethics, corporate responsibility, and professional decision-making in corporate environments.
+
+**Skills Gained:**
+Corporate Governance Business Ethics Professional Ethics Critical Thinking Participation
+
+---
+
+### 🧠 Code Without Barriers – AI & Microsoft Training Program
+**Ratan Tata Maharashtra State Skills University | Microsoft**
+
+🔗**Certificate Link:**
+[View Certificate](https://drive.google.com/file/d/1W-Xw_zqt3wojp-blIKrnK7iGlBeac9zI/view?usp=drivesdk)
+
+**Description:**
+Successfully completed the Code Without Barriers training program, gaining hands-on knowledge in Artificial Intelligence concepts, Azure AI services, ethical AI practices, and integration of Copilot into Microsoft 365 for automation and collaboration.
+
+**Skills Gained:**
+Artificial Intelligence Microsoft Azure Ethical AI Copilot Automation Cloud Integration
+
 
