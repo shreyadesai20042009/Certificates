@@ -182,4 +182,22 @@ Successfully completed the Code Without Barriers training program, gaining hands
 **Skills Gained:**
 Artificial Intelligence Microsoft Azure Ethical AI Copilot Automation Cloud Integration
 
+---
+
+🤖 ### Indian Knowledge System
+**SWAYAM | NITTR Bhopal**
+
+🔗**Certificate Link:**
+[View Certificate](https://drive.google.com/file/d/1pOMBWAD8K8rr-ItT-JYDXsSlk8IOZtp5/view?usp=drivesdk)
+
+**Description:**
+Successfully completed the 3-credit SWAYAM course Indian Knowledge System (July–December 2025) with a consolidated score of 93%. Gained in-depth understanding of India's traditional knowledge frameworks, cultural heritage, philosophical systems, and their relevance in modern education and society.
+
+**Skills Gained:**
+Indian Knowledge System
+Cultural Heritage Studies
+Philosophical Foundations
+Interdisciplinary Learning
+Critical Thinking
+
 
