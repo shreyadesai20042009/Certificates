@@ -200,4 +200,22 @@ Philosophical Foundations
 Interdisciplinary Learning
 Critical Thinking
 
+---
+
+### 🤖 Sankey Arise Program
+**Sankey Solutions**
+
+🔗 **Certificate Link:**
+[View Certificate](https://drive.google.com/file/d/1HockziijQ2EKnVQm2IZ7e7GGm_MWxFYX/view?usp=drivesdk)
+
+**Description:**
+Successfully completed the 3-month Sankey Arise Program, demonstrating strong commitment, learning agility, and active participation in skill development and collaborative projects. Gained practical exposure to industry-oriented workflows, teamwork, and professional development practices.
+
+**Skills Gained:**
+Professional Skill Development
+Team Collaboration
+Project Execution
+Learning Agility
+Industry Exposure
+
 
