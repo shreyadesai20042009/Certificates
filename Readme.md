@@ -1,4 +1,5 @@
-# 📜 Certificates – Shreya Vishwajeet Desai
+# 📜 Certificates
+Shreya Vishwajeet Desai
 
 ---
 
