@@ -219,4 +219,24 @@ Project Execution
 Learning Agility
 Industry Exposure
 
+---
+
+### 🎓 Campus Recruitment Training
+
+**Aspire For Her (InSPIRE Program) | Supported by Infosys Foundation**
+
+🔗 **Certificate Link:**
+[View Certificate](https://drive.google.com/file/d/10JYTROMABxY21G5WbYvewLbqZ7R7zy6_/view?usp=drivesdk)
+
+**Description:**
+Successfully completed the Campus Recruitment Training through the InSPIRE Program by Aspire For Her, supported by Infosys Foundation. This program enhanced my understanding of recruitment processes, interview preparation strategies, resume building techniques, and corporate readiness. The training focused on developing essential professional skills required to confidently navigate campus placements and early career opportunities.
+
+**Skills Gained:**
+Recruitment Process Understanding
+Resume Building
+Interview Preparation
+Professional Communication
+Corporate Readiness
+
+
 
