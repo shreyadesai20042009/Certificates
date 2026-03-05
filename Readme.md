@@ -1,5 +1,5 @@
 # 📜 Certificates
-Shreya Vishwajeet Desai
+Shreya Vishwajeet Desai BTech(CSE)
 
 ---
 
