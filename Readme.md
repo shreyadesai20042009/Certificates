@@ -242,7 +242,8 @@ Corporate Readiness
 
 ### 🎓 Infosys Springboard
 
-🔗 **Certificate Link: View Certificate**
+🔗 **Certificate Link: 
+[View Certificate](https://drive.google.com/file/d/1CrvLcp-VhLO9pVr81UVFAjzk4hTdUo71/view?usp=drivesdk)
 
 **Description:**
 Successfully completed the course “Decision Trees using Python” offered by Infosys Springboard. This program strengthened my understanding of machine learning concepts, particularly the Decision Tree algorithm, including how it works, its applications, model training, evaluation techniques, and implementation using Python. The course provided hands-on learning experience in building predictive models and improved my knowledge of data analysis and supervised learning methods.
