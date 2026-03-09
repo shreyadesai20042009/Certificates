@@ -251,15 +251,29 @@ Successfully completed the course “Decision Trees using Python” offered by I
 **Skills Gained:**
 
 Decision Tree Algorithm
-
 Machine Learning Fundamentals
-
 Python Programming
-
 Model Training & Evaluation
-
 Data Analysis
-
 Supervised Learning
+
+---
+
+🎓Introduction to AWS: Core AWS Services
+Amazon Web Services | 2025
+
+🔗 Certificate Link: View Certificate
+
+Description: Successfully completed the “Introduction to AWS: Core AWS Services” course. Gained foundational knowledge of Amazon Web Services, including its core services, cloud computing concepts, and practical applications in modern IT infrastructure. The course provided a brief but comprehensive overview of AWS capabilities for building and managing cloud-based solutions.
+
+Skills Gained:
+
+Core AWS Services
+
+Cloud Computing Basics
+
+AWS Infrastructure Awareness
+
+Cloud Solution Deployment
 
 
