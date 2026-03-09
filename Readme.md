@@ -1,5 +1,7 @@
 # 📜 Certificates
-Shreya Vishwajeet Desai BTech(CSE)
+Shreya Vishwajeet Desai 
+BTech(CSE)
+Graduate at Annasaheb Dange College of Engineering
 
 ---
 
