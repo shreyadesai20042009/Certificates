@@ -1,7 +1,7 @@
 # 📜 Certificates
 Shreya Vishwajeet Desai 
 BTech(CSE)
-Graduate at Annasaheb Dange College of Engineering
+Graduate at Annasaheb Dange College of Engineering(ADCET)
 
 ---
 
